@@ -1,6 +1,6 @@
 # Music Store Data Analysis using SQL
 
-In this project,we will analyze the music store's data using SQL to extract valuable insights related to sales trends and customer behavior
+In this project, we will analyze the music store's data using SQL to extract valuable insights related to sales trends and customer behavior
 
 - Q1  : Which tracks appeared in the most playlists? how many playlist did they
 appear in?
